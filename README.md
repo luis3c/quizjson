@@ -25,10 +25,10 @@ La aplicacion lee un JSON alojado en un servidor, imprimiéndolo en la pantalla 
 - Android 4.0 en adelante
 
 ## Software utilizado.
--Android Studio 3.1
--opentdb api-
--SublimeText.
--Nexus 5 emulator.
+- Android Studio 3.1
+- opentdb api-
+- SublimeText.
+- Nexus 5 emulator.
 
 **- Para el desarrollo de este proyecto se utilizó únicamente software libre -**
 
